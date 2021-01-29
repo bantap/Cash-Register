@@ -1,0 +1,13 @@
+C:\Users\erau\source\repos\CashRegister\CashRegister\bin\Debug\netcoreapp3.1\CashRegister.exe
+C:\Users\erau\source\repos\CashRegister\CashRegister\bin\Debug\netcoreapp3.1\CashRegister.deps.json
+C:\Users\erau\source\repos\CashRegister\CashRegister\bin\Debug\netcoreapp3.1\CashRegister.runtimeconfig.json
+C:\Users\erau\source\repos\CashRegister\CashRegister\bin\Debug\netcoreapp3.1\CashRegister.runtimeconfig.dev.json
+C:\Users\erau\source\repos\CashRegister\CashRegister\bin\Debug\netcoreapp3.1\CashRegister.dll
+C:\Users\erau\source\repos\CashRegister\CashRegister\bin\Debug\netcoreapp3.1\CashRegister.pdb
+C:\Users\erau\source\repos\CashRegister\CashRegister\obj\Debug\netcoreapp3.1\CashRegister.csprojAssemblyReference.cache
+C:\Users\erau\source\repos\CashRegister\CashRegister\obj\Debug\netcoreapp3.1\CashRegister.AssemblyInfoInputs.cache
+C:\Users\erau\source\repos\CashRegister\CashRegister\obj\Debug\netcoreapp3.1\CashRegister.AssemblyInfo.cs
+C:\Users\erau\source\repos\CashRegister\CashRegister\obj\Debug\netcoreapp3.1\CashRegister.csproj.CoreCompileInputs.cache
+C:\Users\erau\source\repos\CashRegister\CashRegister\obj\Debug\netcoreapp3.1\CashRegister.dll
+C:\Users\erau\source\repos\CashRegister\CashRegister\obj\Debug\netcoreapp3.1\CashRegister.pdb
+C:\Users\erau\source\repos\CashRegister\CashRegister\obj\Debug\netcoreapp3.1\CashRegister.genruntimeconfig.cache
