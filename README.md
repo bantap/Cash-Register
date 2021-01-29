@@ -7,10 +7,12 @@ Part 1
 ### The entire program in `Main`
 
 1. Prompt the user for the **Purchase Price**.
+
   + Input the **Purchase Price** from the user.
 
 1. Prompt the user for the **Payment Amount**.
-  + Input the **Payment Amount** from the user.
+
++ Input the **Payment Amount** from the user.
 
 1. Compute the **Change Due** and print that out.
 1. Compute **How Many Twenties** to give the customer (and print that out).
