@@ -31,13 +31,30 @@ Part 2
 
 ### Divide the program into several well-chosen, well-written **Methods**
 
+---
+
 Part 3
 ---
 
 ### Add `if` statements in several appropriate places
 
+---
+
 Part 4
+---
+
+### Add loops in several appropriate places
+
 ---
 
 Part 5
 ---
+
+### Catch errors (`try` / `catch` / `finally`) for bad user input
+
+---
+
+Extra Credit
+---
+
+### Compute the denominations in reverse order
