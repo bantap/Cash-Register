@@ -2,7 +2,7 @@ Part 2 - A Few Good Methods
 ---
 
 ```cs
-static void Main(string[] args)
+public static void Main(string[] args)
 {
    double purchase = GetAmount("Purchase Amount: $ ");
    double payment  = GetAmount("Payment  Amount: $ ");
