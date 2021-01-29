@@ -39,6 +39,15 @@ private static double GiveDenomination(double currentChangeDue, string label, do
 } // end GiveDenomination( )
 ```
 
+_**Shorter, but maybe less readable**_
+```cs
+private static double GiveDenomination(double currentChangeDue, string label, double denomination)
+{
+   Console.WriteLine($"{label}{(int) (currentChangeDue / denomination)}");
+   return currentChangeDue % denomination;
+} // end GiveDenomination( )
+```
+
 ---
 
 [Back]()
