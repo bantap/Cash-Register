@@ -17,7 +17,7 @@ public static void Main(string[] args)
    changeDue = GiveDenomination(changeDue, "       Quarters: ",  0.25);
    changeDue = GiveDenomination(changeDue, "          Dimes: ",  0.10);
    changeDue = GiveDenomination(changeDue, "        Nickels: ",  0.05);
-   changeDue = GiveDenomination(changeDue, "        Pennies: ",  0.01);
+               GiveDenomination(changeDue, "        Pennies: ",  0.01);
 } // end Main( )
 ```
 
