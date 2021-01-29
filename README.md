@@ -6,11 +6,11 @@ Part 1
 
 ### The entire program in `Main`
 
-1. Prompt the user for the **Purchase Price**.
++ Prompt the user for the **Purchase Price**.
 
   - Input the **Purchase Price** from the user.
 
-1. Prompt the user for the **Payment Amount**.
++ Prompt the user for the **Payment Amount**.
 
   - Input the **Payment Amount** from the user.
 
