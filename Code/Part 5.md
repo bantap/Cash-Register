@@ -15,4 +15,4 @@ public static void Main(string[] args)
 | [Part 3](Part%203.md)
 | [Part 4](Part%204.md)
 | **Part 5**
-| [Extra Credit](Extra%20Credit.md)
+| [Challenge](Challenge.md)
