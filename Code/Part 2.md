@@ -19,17 +19,17 @@ static void Main(string[] args)
    changeDue = GiveDenomination(changeDue, "        Nickels: ",  0.05);
    changeDue = GiveDenomination(changeDue, "        Pennies: ",  0.01);
 } // end Main( )
+```
 
-
-
+```cs
 private static double GetAmount(string prompt)
 {
    Console.Write(prompt);
    return double.Parse(Console.ReadLine());
 } // end GetAmount( )
+```
 
-
-
+```cs
 private static double GiveDenomination(double currentChangeDue, string label, double denomination)
 {
    int count = (int) (currentChangeDue / denomination);
