@@ -34,35 +34,37 @@ A C# Console Application To Make Correct Change
 
 ---
 
-Part 2
+[Part 2](Code/Part%202.md)
 ---
 
-### Divide the program into several well-chosen, well-written **Methods**
-
----
-
-Part 3
----
-
-### Add `if` statements in several appropriate places
+### [Divide the program into several well-chosen, well-written **Methods**](Code/Part%202.md)
 
 ---
 
-Part 4
+[Part 3](Code/Part%203.md)
 ---
 
-### Add loops in several appropriate places
-
----
-
-Part 5
----
-
-### Catch errors (`try` / `catch` / `finally`) for bad user input
+### [Add `if` statements in several appropriate places](Code/Part%203.md)
 
 ---
 
-Extra Credit
+[Part 4](Code/Part%204.md)
 ---
 
-### Compute the denominations in reverse order
+### [Add loops in several appropriate places](Code/Part%204.md)
+
+---
+
+[Part 5](Code/Part%205.md)
+---
+
+### [Catch errors (`try` / `catch` / `finally`) for bad user input](Code/Part%205.md)
+
+---
+
+[Challenge](Code/Challenge.md)
+---
+
+### [Compute the denominations in reverse order](Code/Challenge.md)
+
+
