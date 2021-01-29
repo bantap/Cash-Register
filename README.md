@@ -3,10 +3,10 @@ A C# Console Application To Make Correct Change
 
 ---
 
-[Part 1](Code/Part 1.md)
+[Part 1](Code/Part%201.md)
 ---
 
-### [The entire program in `Main`](Code/Part 1.md)
+### [The entire program in `Main`](Code/Part%201.md)
 
 1. Prompt the user for the **Purchase Price**.
     - Input the **Purchase Price** from the user.
