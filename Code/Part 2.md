@@ -20,11 +20,15 @@ static void Main(string[] args)
    changeDue = GiveDenomination(changeDue, "        Pennies: ",  0.01);
 } // end Main( )
 
+
+
 private static double GetAmount(string prompt)
 {
    Console.Write(prompt);
    return double.Parse(Console.ReadLine());
 } // end GetAmount( )
+
+
 
 private static double GiveDenomination(double currentChangeDue, string label, double denomination)
 {
